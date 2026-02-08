@@ -14,6 +14,6 @@ Legal Compliance:
 - The app does not hold user funds or private keys.
 - For regulatory purposes: this is a donation + reward NFT mechanism, not a sale of securities.
 
-Contact: [il tuo X handle o email, es. @tuohandle su X]
+Contact: https://x.com/DuckerForge
 
 Last updated: February 07, 2026
