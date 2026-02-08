@@ -1,6 +1,6 @@
 SolFlex - Copyright & Legal Compliance Notice
 
-Copyright © 2026 [Il tuo nome reale / pseudonimo / team name, es. "Anon Dev" o "SolFlex Team"]. All rights reserved.
+Copyright © 2026 SolFlex. All rights reserved.
 
 Ownership:
 - The SolFlex mobile dApp (source code, UI, logic, images, smart contract interactions) is owned and developed by [il tuo nome/pseudonimo].
